@@ -19,3 +19,7 @@ pip3 install
 ```shell
 python3 main.py
 ```
+
+
+### Example:
+![1028-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/b9d8f25e-de54-4ec2-8805-244450a6d90d)
